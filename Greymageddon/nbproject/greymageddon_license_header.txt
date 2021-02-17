@@ -1,0 +1,12 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}Title: 	Greymageddon
+${licensePrefix}Project:	Group 2 Project for CS 321
+${licensePrefix}Authors: 	Tim Prishtina, Chris Parker, Gabriel Moore, Ben Strawbridge
+${licensePrefix}Date:	11/19/2015
+${licensePrefix}Instructor:	Daniel M Rochowiak
+${licensePrefix}Disclaimer:	This program is entirely our own work.	
+<#if licenseLast??>
+${licenseLast}
+</#if>
